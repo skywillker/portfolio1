@@ -21,3 +21,6 @@
 - Processes reingineering
 - Elaboration of controls, indicators and reports
 - Reduction of operational risks
+
+[Veja o notebook Jupyter aqui](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)
+
