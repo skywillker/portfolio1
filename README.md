@@ -8,7 +8,7 @@
 ## Work Experience
 **Data Analyst @ Fintech Magalu (_March 2022 - Present_)**
 - Creation of data science codes for business forecasting
-- Volunteer for data science group working on deprioritized projects
+- Volunteer for a data science group working on deprioritized projects
 - Development of the Payments Front for the FP&A Team
 - Creation of dashboards via Google Data Studio and Power BI
 - Generation of databases via BQ (BigQuery)
