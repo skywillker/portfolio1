@@ -26,9 +26,9 @@
 [Titanic - Logistic Regression](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)
 
 
-| Nome do Projeto       | Link para o Projeto no GitHub                     | Link para o Notebook Jupyter                                 |
+| Project       | GitHub Link                     | Jupyter Notebook Link                                 |
 |-----------------------|---------------------------------------------------|-------------------------------------------------------------|
-| Projeto 1             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Notebook Jupyter](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
-| Projeto 2             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Notebook Jupyter](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
-| Projeto 3             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Notebook Jupyter](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
+| Projeto 1             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
+| Projeto 2             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
+| Projeto 3             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
 
