@@ -22,6 +22,6 @@
 - Elaboration of controls, indicators and reports
 - Reduction of operational risks
 
-## Projects
+## Public Projects
 [Titanic - Logistic Regression](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)
 
