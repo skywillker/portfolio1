@@ -23,7 +23,7 @@
 - Reduction of operational risks
 
 ## Public Projects
-[Titanic - Logistic Regression](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)
+[Titanic - XGBoost](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)
 
 
 | Project       | GitHub Link                     | Jupyter Notebook Link                                 |
