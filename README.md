@@ -23,12 +23,12 @@
 - Reduction of operational risks
 
 ## Public Projects
-[Titanic - Logistic Regression](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)
+[Titanic - Logistic Regression](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)
 
 
 | Project       | GitHub Link                     | Jupyter Notebook Link                                 |
 |-----------------------|---------------------------------------------------|-------------------------------------------------------------|
-| Projeto 1             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
+| Titanic - XGBoost             | [GitHub](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)          |
 | Projeto 2             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
 | Projeto 3             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
 
