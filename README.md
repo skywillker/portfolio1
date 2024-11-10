@@ -23,8 +23,8 @@
 - Reduction of operational risks
 
 ## Public Projects
-[Titanic - XGBoost](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)
-[Peyton Manning - Prophet (Time Series)](https://github.com/skywillker/peyton_manning/blob/main/Peyton_Manning_Notebook.ipynb)
+- [Titanic - XGBoost](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)
+- [Peyton Manning - Prophet (Time Series)](https://github.com/skywillker/peyton_manning/blob/main/Peyton_Manning_Notebook.ipynb)
 
 
 | Project       | GitHub Link                     | Jupyter Notebook Link                                 |
