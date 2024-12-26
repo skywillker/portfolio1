@@ -31,5 +31,5 @@
 |-----------------------|---------------------------------------------------|-------------------------------------------------------------|
 | Titanic - XGBoost             | [GitHub](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/titanic/blob/main/Titanic_Notebook.ipynb)          |
 | Peyton Manning - Prophet (Time Series)             | [GitHub](https://github.com/skywillker/peyton_manning/blob/main/Peyton_Manning_Notebook.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/peyton_manning/blob/main/Peyton_Manning_Notebook.ipynb)          |
-| Projeto 3             | [GitHub](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/portfolio1/blob/main/Titanic_Regressao_Logistica.ipynb)          |
+| Credit Card Clients - K Means             | [GitHub](https://github.com/skywillker/credit_card_clients/blob/main/Credit%20Card%20Clients.ipynb)             | [Jupyter Notebook](https://github.com/skywillker/credit_card_clients/blob/main/Credit%20Card%20Clients.ipynb)          |
 
